@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_hr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: hr
+  m_SharedData: {fileID: 11400000, guid: 391b94e7e87af7d4abca5849f907481e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11185606656
+    m_Localized: Prapovijesni Graditelj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163876814848
+    m_Localized: "Mount Everest (tako\u0111er tib. Qomolangma, nep. Sagarm\u0101th\u0101,
+      lim. Chajamlungma, kin. Zhumulangma, eng. Mount Chomolungma), najvi\u0161a
+      je planina na Zemlji i najvi\u0161a to\u010Dka na zemaljskoj kontinentalnoj
+      kori, prema mjerenju visine topografskog vrhunca od 8848 metara iznad razine
+      mora. Planina, koja je dio lanca Himalaje u Aziji, locirana je na granici izme\u0111u
+      zone Sagarmatha u Nepalu, i autonomne regije Tibet u Kini.\r\n\r\nGodine 1856.,
+      Velika trigonometrijska izmjera Indije, prva je ustanovila i objavila visinu
+      Mount Everesta, tada poznatog kao Peak XV, od 29 002 ft (8840 m). Godine 1865.,
+      britansko Kraljevsko geografsko dru\u0161tvo (Royal Geographical Society) planini
+      je dodijelilo slu\u017Ebeno englesko ime na prijedlog Andrewa Waugha, tada\u0161njeg
+      glavnog geodetskog nadzornika Indije (Surveyor General of India). Naziv Chomolungma
+      bio je stolje\u0107ima u ra\u0161irenoj upotrebi me\u0111u Tibetancima, ali
+      Waugh nije mogao predlo\u017Eiti ra\u0161ireno lokalno ime jer su Nepal i Tibet
+      tada bili zatvoreni za strance.\r\n\r\nNajvi\u0161a planina na svijetu privla\u010Di
+      penja\u010De svih profila, od iskusnih planinara do po\u010Detnika koji su
+      spremni platiti znatne svote profesionalnim planinskim vodi\u010Dima radi uspje\u0161nog
+      uspona. Planina, premda ne postavlja znatne tehni\u010Dke te\u0161ko\u0107e
+      pri usponu na standardnoj ruti (drugi vrhunci iznad 8000 m visine kao K2 ili
+      Nanga Parbat znatno su te\u017Ei), ipak skriva mnoge opasnosti, kao visinska
+      bolest, vremenske prilike i vjetar. Do kraja penja\u010Dke sezone 2008., 2700
+      osoba ostvarilo je 4102 uspona na vrhunac.[1] Penja\u010Di su znatan izvor
+      turisti\u010Dkog prihoda u Nepalu, \u010Dija vlada nala\u017Ee svim budu\u0107im
+      penja\u010Dima izdavanje skupe dozvole, po cijeni do 25 000 USD po osobi.[2]
+      Everest je do sada uzeo 210 \u017Eivota, uklju\u010Duju\u0107i i osmero koji
+      su poginuli 1996. za vrijeme oluje na velikoj nadmorskoj visini. U \"zoni smrti\"
+      uvjeti su toliko te\u0161ki da su mnoga tijela poginulih ostavljena na mjestu.
+      Neka od njih vidljiva su sa standardnih puteva uspinjanja.[3]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632430903296
+    m_Localized: Izbornik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2454862614528
+    m_Localized: 2/ Galerija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2841304813568
+    m_Localized: 1/ Prapovijesni Graditelj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35543139667968
+    m_Localized: Pregledaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46144171724800
+    m_Localized: "Po\u010Detni Ekran"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50601592803328
+    m_Localized: Galerija
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

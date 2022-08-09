@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 391b94e7e87af7d4abca5849f907481e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11185606656
+    m_Localized: Prehistoric Builder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163876814848
+    m_Localized: "Mount Everest (also Tib. Qomolangma, Nep. Sagarm\u0101th\u0101,
+      Lim. Chajamlungma, Chinese Zhumulangma, Eng. Mount Chomolungma), is the highest
+      mountain on Earth and the highest point on the Earth's continental crust, as
+      measured by the height of the topographic peak of 8,848 meters above sea level
+      . The mountain, which is part of the Himalayan chain in Asia, is located on
+      the border between the Sagarmatha Zone in Nepal and the Tibet Autonomous Region
+      in China.\n\nIn 1856, the Great Trigonometrical Survey of India was the first
+      to establish and publish the height of Mount Everest, then known as Peak XV,
+      at 29,002 ft (8,840 m). In 1865, the British Royal Geographical Society (Royal
+      Geographical Society) assigned the mountain an official English name at the
+      suggestion of Andrew Waugh, then the Surveyor General of India. The name Chomolungma
+      had been in widespread use among Tibetans for centuries, but Waugh could not
+      suggest a widespread local name because Nepal and Tibet were then closed to
+      foreigners.\n\nThe highest mountain in the world attracts climbers of all profiles,
+      from experienced mountaineers to beginners who are ready to pay considerable
+      sums to professional mountain guides for a successful ascent. The mountain,
+      although it does not pose significant technical difficulties during the ascent
+      on the standard route (other peaks above 8000 m such as K2 or Nanga Parbat
+      are much more difficult), still hides many dangers, such as altitude sickness,
+      weather and wind. By the end of the 2008 climbing season, 2,700 people had
+      made 4,102 ascents to the summit.[1] Climbers are a significant source of tourism
+      income in Nepal, whose government requires all would-be climbers to issue an
+      expensive permit, costing up to $25,000 per person.[2] Everest has claimed
+      210 lives so far, including eight who died in 1996 during a high-altitude storm.
+      In the \"death zone\" the conditions are so difficult that many bodies of the
+      dead are left in place. Some of them are visible from the standard climbing
+      routes.[3]"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632430903296
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2454862614528
+    m_Localized: 2/ Gallery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2841304813568
+    m_Localized: 1/ Prehistoric Builder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35543139667968
+    m_Localized: Review
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46144171724800
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50601592803328
+    m_Localized: Gallery
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
