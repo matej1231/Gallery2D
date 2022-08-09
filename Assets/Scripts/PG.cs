@@ -8,8 +8,16 @@ public class PG : MonoBehaviour
 {
     public GameObject FullScreenPanel;
 
+    public GameObject FirstTimePanel;
+
     void Start()
     {
+        if (PlayerPrefs.GetInt("FIRSTTIMEOPENING", 1) == 1)
+        {
+            FirstTimePanel.SetActive(true);
+
+            PlayerPrefs.SetInt("FIRSTTIMEOPENING", 0);
+        }
         FullScreenPanelDeactivate();
     }
 
@@ -21,5 +29,10 @@ public class PG : MonoBehaviour
     public void FullScreenPanelDeactivate()
     {
         FullScreenPanel.SetActive(false);
+    }
+
+    public void CloseFirstTimePanel()
+    {
+        FirstTimePanel.SetActive(false);
     }
 }
